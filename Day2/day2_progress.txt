@@ -1,1 +1,11 @@
 Day2 progress 
+Concepts Learnt:
+1.datatypes
+2.type conversion
+3.math opertions 
+4.number manipulation
+5.Data type practice program
+6.BMI python program
+7.Life in weeks program
+8.Project: Tip and split bill Calculator
+
