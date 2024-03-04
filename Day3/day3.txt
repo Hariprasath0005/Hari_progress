@@ -1,1 +1,10 @@
-"Day3 Progress"
+Day3 Progress
+1. control flow if/else and conditional operators
+2. nested if and elif statement
+3. Multiple if statement
+4. logical operator
+5 BMI 2.0 program
+6. Leap year program
+7. Pizza order program
+8. Love calculator program
+9. Project- Treasure island
