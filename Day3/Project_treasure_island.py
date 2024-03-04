@@ -1,3 +1,4 @@
+#Day 3 Project - Treasure Island game
 print("Welcome to treasure Island.")
 print("Your mission is to find the treaure.")
 
