@@ -1,1 +1,13 @@
 Day 4 progress
+1. Lists
+2. nested lists
+3. for loop 
+4. ranges
+5. Banker roulette program
+6. fizz Buzz program
+7. Treasure map program
+8. Adding even number program
+9. Average Height program
+10. High score program
+11. Project - password generator
+12. Project - Rock paper scissors
