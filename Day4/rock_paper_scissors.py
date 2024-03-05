@@ -26,6 +26,7 @@ scissors = '''
 '''
 import random
 list1 = [rock,paper,scissors]
+
 #users
 user = int(input("What do you choose? Type 0 for Rock, 1 for Paper or 2 for Scissors.: "))
 user_choose =list1[user]
