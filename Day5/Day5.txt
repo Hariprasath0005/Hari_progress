@@ -1,1 +1,8 @@
 Day 5 Progress 
+1. functions
+2. calling functions
+3. practice programs on functions in reeborgs
+4. While loop
+5. Project- Maze game on reeborgs
+6. Hangman game project
+
