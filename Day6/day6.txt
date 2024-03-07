@@ -1,1 +1,11 @@
+Day 6 learnings
+
+Dictionary
+functions with different types
+nested list 
+nested dictionary
+Practice programs - 5
+Project - 2
+caesar cipher project
+auction bidding project
 
