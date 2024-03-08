@@ -1,0 +1,39 @@
+from os import system
+
+def add(n1,n2):
+    return n1+n2
+
+def sub(n1,n2):
+    return n1-n2
+
+def mul(n1,n2):
+    return n1*n2
+
+def div(n1,n2):
+    return n1/n2
+
+operations = {"+":add,
+              "-":sub,
+              "*":mul,
+              "/":div}
+def calculator():
+    num1 = float(input("Enter the 1st number: "))
+    ask = True
+    while ask:
+        
+        num2 = float(input("Enter the next number: "))
+        for i in operations:
+            print(i)
+        operate = input("Enter the operation from above symbol: ")
+        calculation = operations[operate]
+        ans = calculation(num1,num2)
+        print(f"{num1} {operate} {num2} = {ans}")
+        asking = input("Do you want to calculate with the result? Yes or No to new calculator, Or exit: ").lower()
+        if asking=="yes":
+            num1 = ans
+        elif asking =="no":
+            ask = False
+            calculator()
+        else:
+            ask = False
+calculator()
