@@ -1,0 +1,7 @@
+Day 8 progress
+Blackjack project
+local and global scope
+python constant
+Guessing number project
+fixing error
+degubbing programs
