@@ -4,4 +4,4 @@ local and global scope
 python constant
 Guessing number project
 fixing error
-degubbing programs
+Degubbing programs 
